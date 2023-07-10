@@ -1,0 +1,13 @@
+.bacground-img {
+  background-image: url("/src/assets/Images/Harvey_specter_Img_2_bw.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  max-width: 100%;
+  height: 100vh;
+}
+@media (max-width: 1028px) {
+  .background-img {
+    background-size: contain;
+  }
+}
