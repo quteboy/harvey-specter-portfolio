@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "caseTitle": "Eva Hessington Oil Case",
+    "description": "Eva Hessington the owner and CEO of Hessington Oil were charged for birbary and allegedly killing of pipeline victims after working tirelessly for months we dig out evidences testimonials everything we could find and used to make Eva free from those charges",
+    "clientName": "Eva Hessington",
+    "caseDuration": "6 months",
+    "verdict": "no trial prosecution dropped the case against the eva due discovery of new evidences pointing out to actual person who arranged the whole thing"
+  },
+  {
+    "id": 2,
+    "caseTitle": "CM Hood",
+    "description": "Car manufacturing company is sued for producing and selling defective cars which resulted in death of a civilian",
+    "clientName": "CM Hood",
+    "caseDuration": "2 years",
+    "verdict": "after trial and hearing it was concluded that cause of death was negligence by driver"
+  },
+  {
+    "id": 3,
+    "caseTitle": "Busted Headlight case",
+    "description": "a minor road accident lead to civil lawsuit againt harvey specter and his driver ray cab driver santana wrongfully sued harvey and his driver for missing his bid because he was caught in accident allegedly caused by him and his driver",
+    "clientName": "My self Ray",
+    "caseDuration": "a week or so",
+    "verdict": "cad driver confess that accident happended because of him"
+  },
+  {
+    "id": 4,
+    "caseTitle": "gamble addict lost his company on poker",
+    "description": "Keith Hoiet CEO of tech company lost his company in pocker as he made a contract with 2 people that they will give me $ 3 millions in return of 3.5 if he won that round but he didnt",
+    "clientName": "Keith Hoiet",
+    "caseDuration": "a month",
+    "verdict": "case never went to trial gambled with those people and won back the company"
+  }
+]
